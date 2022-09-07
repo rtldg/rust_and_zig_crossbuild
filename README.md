@@ -1,0 +1,1 @@
+`rustup run nightly-i686-pc-windows-gnu cargo zigbuild --release --target i686-pc-windows-gnu`
